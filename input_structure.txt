@@ -1,0 +1,11 @@
+/widget
+    /backend
+        src
+            main.rs
+            config.rs
+            routes.rs
+        Cargo.toml
+    /frontend
+        widget.js
+        index.html
+
